@@ -3,5 +3,5 @@ Dupa [wstawka z kompa] kwas
 Linijka 3
 Linijka 4
 Linijka 5
-Linijka 6
+Linijka 7
 
