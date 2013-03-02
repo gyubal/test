@@ -1,2 +1,2 @@
-Dupa kwas
-Linia dopisana w Githubie
+Dupa [wstawka z githuby] kwas
+
