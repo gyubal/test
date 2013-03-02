@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Dupa [wstawka z kompa] kwas
+=======
+Dupa [wstawka z githuby] kwas
+
+>>>>>>> 11c297ee65fab752598403019f67b1a30f9e3500
