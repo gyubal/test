@@ -1,1 +1,2 @@
 test linia 1
+a to jest linia 2 wbita z githuby
