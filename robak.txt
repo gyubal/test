@@ -5,6 +5,6 @@ Linijka 4
 Linijka 5
 Linijka 7
 Linijka po mergu
-Nowa linijka po wykasowaniu ww 'Linijka po mergu'
+Nowa linijka po wykasowaniu ww 'Linijka po mergu '
 
 
